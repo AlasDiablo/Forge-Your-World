@@ -32,6 +32,7 @@ public class fw {
 	public void init(FMLInitializationEvent event)
 	{
 		System.out.println("Initialization of Forge Your World Done");
+		proxy.init();
 	}
 	
 	@EventHandler
