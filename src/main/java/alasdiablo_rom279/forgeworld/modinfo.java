@@ -11,5 +11,3 @@ public class modinfo {
 	public static final String SERVER_PROXY_CLASSE = "alasdiablo_rom279.forgeworld.proxy.server";
 
 }
-
-cc c moi momodu88
