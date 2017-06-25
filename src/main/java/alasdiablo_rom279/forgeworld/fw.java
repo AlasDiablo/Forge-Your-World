@@ -1,5 +1,6 @@
 package alasdiablo_rom279.forgeworld;
 
+import alasdiablo_rom279.forgeworld.init.inititems;
 import alasdiablo_rom279.forgeworld.proxy.common;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -22,6 +23,9 @@ public class fw {
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		System.out.println("Pre Initialization of Forge Your World Done");
+		
+		inititems.init();
+		inititems.register();
 	}
 	
 	@EventHandler
