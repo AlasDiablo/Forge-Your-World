@@ -4,6 +4,7 @@ public class Reference {
 	
 	public static enum FWItems {
 		FLOUR("flour", "ItemFlour");
+		TOAST("toast", "ItemToast");
 		
 		private String unlocalizedName;
 		private String registryName;
