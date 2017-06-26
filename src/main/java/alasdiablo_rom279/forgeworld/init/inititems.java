@@ -10,17 +10,21 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class inititems {
 	
 	public static Item flour;
+	public static Item toast;
 	
 	public static void init() {
 		flour = new ItemFlour();
+		toast = new ItemToast();
 	}
 	
 	public static void register() {
 		GameRegistry.register(flour);
+		GameRegistry.register(toast);
 	}
 	
 	public static void registerRenders() {
 		registerRender(flour);
+		registerRender(toast);
 	}
 	
 	private static void registerRender(Item item) {
