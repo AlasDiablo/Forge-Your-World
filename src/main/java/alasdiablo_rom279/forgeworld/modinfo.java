@@ -4,7 +4,7 @@ public class modinfo {
 	
 	public static final String MOD_ID = "fw";
 	public static final String NAME = "Forge Your World";
-	public static final String VERSION = "1.0.0-aplha";
+	public static final String VERSION = "PreAplha-0.0.1";
 	public static final String ACCEPTED_VERSION = "[1.10.2]";
 	
 	public static final String CLIENT_PROXY_CLASSE = "alasdiablo_rom279.forgeworld.proxy.client";
