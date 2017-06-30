@@ -1,7 +1,7 @@
 {
 	"modid": "fw",
 	"name": "Forge Your World",
-	"version": "PreAlpha0.0.9-Stable",
+	"version": "0.0.9",
 	"changelog": [
 		"=implements AIP", "+Added Update Checker"
 	],
