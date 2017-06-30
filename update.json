@@ -1,5 +1,5 @@
 {
-	"name": "ForgeYourWorld",
+	"name": "Forge Your World",
 	"version": "PreAlpha0.0.10-Stable",
 	"changelog": [
 		"=implements AIP", "+Added Update Checker"
