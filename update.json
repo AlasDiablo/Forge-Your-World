@@ -1,0 +1,8 @@
+{
+	"name": "Forge Your World",
+	"version": "PreAlpha0.0.9-Stable",
+	"changelog": [
+		"=implements AIP", "+Added Update Checker"
+	],
+	"download": "https://minecraft.curseforge.com/projects/forge-your-world"
+}
