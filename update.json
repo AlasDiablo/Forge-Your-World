@@ -1,8 +1,8 @@
 {
 	"name": "Forge Your World",
-	"version": "PreAlpha0.0.9-Stable",
+	"version": "PreAlpha0.0.10-Stable",
 	"changelog": [
-		"Added Update Checker"
+		"Complete rewrite", "add kitchen knife", "fix server crash on player connection"
 	],
 	"download": "https://minecraft.curseforge.com/projects/forge-your-world"
 }
