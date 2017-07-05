@@ -1,8 +1,8 @@
 {
 	"name": "Forge Your World",
-	"version": "PreAlpha0.0.10-Stable",
+	"version": "PreAlpha0.0.11-Stable",
 	"changelog": [
-		"Complete rewrite", "add kitchen knife", "fix server crash on player connection"
+		"add Andesite Brick + Mossy + Cracked + Carved and Slab", "add kitchen knife", "add EnderiumOre"
 	],
 	"download": "https://minecraft.curseforge.com/projects/forge-your-world"
 }
