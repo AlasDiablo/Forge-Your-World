@@ -2,7 +2,7 @@
 	"name": "Forge Your World",
 	"version": "PreAlpha0.0.11-Stable",
 	"changelog": [
-		"add Andesite Brick + Mossy + Cracked + Carved and Slab", "add EnderiumOre"
+		"add Andesite Brick + Mossy + Cracked + Carved and Slab", "add EnderiumOre", "only for 1.10.2"
 	],
 	"download": "https://minecraft.curseforge.com/projects/forge-your-world"
 }
