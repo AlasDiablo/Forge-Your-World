@@ -2,7 +2,7 @@
 	"name": "Forge Your World",
 	"version": "PreAlpha0.0.12-Stable",
 	"changelog": [
-		"add Diorite Brick + Mossy + Cracked + Carved and Slab", "add EnderiumOre", "only for 1.10.2", "WIP for 1.11.0 and 1.12.X"
+		"add Diorite Brick + Mossy + Cracked + Carved and Slab", "add EnderiumOre", "WIP for 1.12.X"
 	],
 	"download": "https://minecraft.curseforge.com/projects/forge-your-world"
 }
